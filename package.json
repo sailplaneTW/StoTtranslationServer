@@ -1,0 +1,23 @@
+{
+  "name": "stottranslationserver",
+  "version": "1.0.0",
+  "description": "簡體中文轉換到正體中文",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sailplaneTW/StoTtranslationServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sailplaneTW/StoTtranslationServer/issues"
+  },
+  "homepage": "https://github.com/sailplaneTW/StoTtranslationServer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-opencc": "^2.0.1"
+  }
+}
